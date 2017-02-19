@@ -1,0 +1,7 @@
+com\sample\api\product\application\ProductApplication.class
+com\sample\api\product\ProductsApi.class
+com\sample\api\product\ProductsApiController.class
+com\sample\api\model\Device.class
+com\sample\api\model\RatePlan.class
+com\sample\api\model\Product.class
+com\sample\api\model\Error.class
